@@ -10,7 +10,7 @@ I.	Content Developers/Writers
 
 II.	Designers
 
-III.Front-end Developers
+III.	Front-end Developers
 
 IV.	Back-end Developers (Python, Django and Firebase)
 
@@ -42,41 +42,41 @@ Content/Project features based on User, Hostel management and Administrator ;
 -	_and more…_
 
 **Case 2:** A hostel Rep should be ale to;
-i.	Create hostel Domain
-ii.	Update hostel details
-iii.	Delete hostel uploaded
-iv.	Make changes where needed
-v.	Communicate with other hostel Reps
+-	Create hostel Domain
+-	Update hostel details
+-	Delete hostel uploaded 
+-	Make changes where needed
+-	Communicate with other hostel Reps
 
 **Case 3:** An Admin should be able to:
-i.	Monitor hostel Rep activities
-ii.	Approve pending hostels
-iii.	Delete/deactivate any user
-iv.	*And more…*
+-	Monitor hostel Rep activities
+-	Approve pending hostels
+-	Delete/deactivate any user
+-	*And more…*
 
 *Stages towards the achievement of this project should be strictly followed. And this involves:*
 
-a) Mock-up and design template.
+a) 	Mock-up and design template.
 
-b) Front-end Code-base Deployment
+b) 	Front-end Code-base Deployment
 
-c) Test Running of Front-end
+c) 	Test Running of Front-end
 
-d) Integrating of Front-end into Django framework
+d) 	Integrating of Front-end into Django framework
 
-e) Designing the Database
+e) 	Designing the Database
 
-f) Database Structure
+f) 	Database Structure
 
-g) MySQL Server Setup
+g) 	MySQL Server Setup
 
-h) Full implementation of design/General implementation
+h) 	Full implementation of design/General implementation
 
-i) Deployment of the cloud
+i) 	Deployment of the cloud
 
-j) Documentation
+j) 	Documentation
 
-k) Presentation
+k) 	Presentation
 
 
 **OBJECTIVES OF THIS PROJECT.**
