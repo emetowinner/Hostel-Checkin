@@ -2,14 +2,15 @@
 
 
 DESCRIPTION OF THIS PROJECT.
-Hostel-Checkin is a web app project to be carried out by IMSU DSC with the collaborative and 
-effective work of its team functionaries for a greater output. This project will involve the 
-expeditious work of these teams:
 
-?Content Developers/Writers
-?Designers
-?Front-end Developers
-?Back-end Developers (Python, Django and Firebase)
+Hostel-Checkin is a web app project to be carried out by IMSU DSC 
+with the collaborative and effective work of its team functionaries 
+for a greater output. This project will involve the expeditious work of these teams:
+
+I.	Content Developers/Writers
+II.	Designers
+III.	Front-end Developers
+IV.	Back-end Developers (Python, Django and Firebase)
 
 THE CONTENT DEVELOPERS/WRITERS
 
@@ -51,17 +52,17 @@ iii.Delete/deactivate any user
 iv.And more…
 
 Stages towards the achievement of this project should be strictly followed. And this involves: 
-?Mock-up and design template.
-?Front-end Code-base Deployment
-?Test Running of Front-end
-?Integrating of Front-end into Django framework
-?Designing the Database
-?Database Structure
-?MySQL Server Setup
-?Full implementation of design/General implementation
-?Deployment of the cloud
-?Documentation
-?Presentation
+a) Mock-up and design template.
+b) Front-end Code-base Deployment
+c) Test Running of Front-end
+d) Integrating of Front-end into Django framework
+e) Designing the Database
+f) Database Structure
+g) MySQL Server Setup
+h) Full implementation of design/General implementation
+i) Deployment of the cloud
+j) Documentation
+k) Presentation
 
 
 OBJECTIVES OF THIS PROJECT.
@@ -73,12 +74,18 @@ immeasurable. The objectives will definitely be found among these:
 
 a)To eradicate the stress/difficulty users could encounter during the search of a vacant, better, or 
 convenient place at campus and its environs.
+
 b)To provide upper limit satisfaction to users while making their choice of hostel.
+
 c)To curb scam, theft etc in the cause of this search either from the Hostel Agents, or ungrateful 
 individuals.
+
 d)To upload hostel location, distance, features and probably price tags to enable users make 
 fulfilling choices and equally pack-in at will.
+
 e)Will be able to provide a secured activities.
+
 f)Equally aimed at boosting the confidence of a new or returning student’s parents, knowing fully 
 well that there child has been cleared for a convenient place to stay.
+
 g)The aim of this project is vast…
