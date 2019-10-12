@@ -15,19 +15,23 @@ III.Front-end Developers
 IV.	Back-end Developers (Python, Django and Firebase)
 
 **THE CONTENT DEVELOPERS/WRITERS**
+
 These team functionaries are relied on to update the README file after cloning it to their 
 Repositories so as to reflect the description and objective of the project, afterwards, push/create 
 a pull request.
 
 **THE UI/UX DESIGNERS**
+
 These team functionaries are to Mock-up for a web base applications where students can create a 
 profile, search for Hostel and book an appointment once they find a suitable one.
 
 **THE FRONT-END DEVELOPERS**
+
 Content/Project features based on User case 1: Translate the mock-up to HTML, CSS and JavaScript 
 code/pages. No JavaScript framework is needed. 
  
 **THE BACK-END DEVELOPERS**
+
 Content/Project features based on User, Hostel management and Administrator ; 
 
 **Case 1:** User should be able to;
@@ -48,7 +52,7 @@ v.	Communicate with other hostel Reps
 i.	Monitor hostel Rep activities
 ii.	Approve pending hostels
 iii.Delete/deactivate any user
-iv.	*And more…
+iv.	*And more…*
 
 *Stages towards the achievement of this project should be strictly followed. And this involves:*
 
