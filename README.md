@@ -6,13 +6,13 @@ Hostel-Checkin is a web app project to be carried out by IMSU DSC with the
 collaborative and effective work of its team functionaries for a greater output. 
 This project will involve the expeditious work of these teams:
 
-I.	Content Developers/Writers
+I.		Content Developers/Writers
 
-II.	Designers
+II.		Designers
 
-III.	Front-end Developers
+III.		Front-end Developers
 
-IV.	Back-end Developers (Python, Django and Firebase)
+IV.		Back-end Developers (Python, Django and Firebase)
 
 **THE CONTENT DEVELOPERS/WRITERS**
 
@@ -56,27 +56,27 @@ Content/Project features based on User, Hostel management and Administrator ;
 
 *Stages towards the achievement of this project should be strictly followed. And this involves:*
 
-a) 	Mock-up and design template.
+a) 		Mock-up and design template.
 
-b) 	Front-end Code-base Deployment
+b) 		Front-end Code-base Deployment
 
-c) 	Test Running of Front-end
+c) 		Test Running of Front-end
 
-d) 	Integrating of Front-end into Django framework
+d) 		Integrating of Front-end into Django framework
 
-e) 	Designing the Database
+e) 		Designing the Database
 
-f) 	Database Structure
+f) 		Database Structure
 
-g) 	MySQL Server Setup
+g) 		MySQL Server Setup
 
-h) 	Full implementation of design/General implementation
+h) 		Full implementation of design/General implementation
 
-i) 	Deployment of the cloud
+i) 		Deployment of the cloud
 
-j) 	Documentation
+j) 		Documentation
 
-k) 	Presentation
+k) 		Presentation
 
 
 **OBJECTIVES OF THIS PROJECT.**
@@ -86,20 +86,20 @@ to be carried out implies that the overview of its aim is beyond imaginations. H
 favourable, gratifying, convenient, reposeful, and lots more it could be to the users would be 
 immeasurable. The objectives will definitely be found among these:
 
-a)	To eradicate the stress/difficulty users could encounter during the search of a vacant, better, or 
-	convenient place at campus and its environs.
+a)		To eradicate the stress/difficulty users could encounter during the search of a vacant, better, or 
+		convenient place at campus and its environs.
 
-b)	To provide upper limit satisfaction to users while making their choice of hostel.
+b)		To provide upper limit satisfaction to users while making their choice of hostel.
 
-c)	To curb scam, theft etc in the cause of this search either from the Hostel Agents, or ungrateful 
-	individuals.
+c)		To curb scam, theft etc in the cause of this search either from the Hostel Agents, or ungrateful 
+		individuals.
 
-d)	To upload hostel location, distance, features and probably price tags to enable users make 
-	fulfilling choices and equally pack-in at will.
+d)		To upload hostel location, distance, features and probably price tags to enable users make 
+		fulfilling choices and equally pack-in at will.
 
-e)	Will be able to provide a secured activities.
+e)		Will be able to provide a secured activities.
 
-f)	Equally aimed at boosting the confidence of a new or returning student’s parents, knowing fully 
-	well that there child has been cleared for a convenient place to stay.
+f)		Equally aimed at boosting the confidence of a new or returning student’s parents, knowing fully 
+		well that there child has been cleared for a convenient place to stay.
 
-g)	*The aim of this project is vast…*
+g)		*The aim of this project is vast…*
