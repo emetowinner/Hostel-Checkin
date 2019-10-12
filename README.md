@@ -103,3 +103,5 @@ f)		Equally aimed at boosting the confidence of a new or returning student’s p
 		well that there child has been cleared for a convenient place to stay.
 
 g)		*The aim of this project is vast…*
+
+**WELCOME AND THANK YOU FOR CONTRIBUTING TO THIS PROJECT. PLEASE TAKE YOUR TIME TO STUDY THIS PAGE CAREFULLY BEFORE MAKING ANY CHANGES TO THE CODEBASE. TRY TO BE ON A PROPER PHASE WITH THE REST OF THE TEAM**
