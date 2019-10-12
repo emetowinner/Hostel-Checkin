@@ -35,23 +35,23 @@ code/pages. No JavaScript framework is needed.
 Content/Project features based on User, Hostel management and Administrator ; 
 
 **Case 1:** User should be able to;
-i.	Search for hostel
-ii.	Book appointment
-iii.Contact Hostel management
-iv.	Rate Hostel experience
-v.	_and more…_
+-	Search for hostel
+-	Book appointment
+-	Contact Hostel management
+-	Rate Hostel experience
+-	_and more…_
 
 **Case 2:** A hostel Rep should be ale to;
 i.	Create hostel Domain
 ii.	Update hostel details
-iii.Delete hostel uploaded
+iii.	Delete hostel uploaded
 iv.	Make changes where needed
 v.	Communicate with other hostel Reps
 
 **Case 3:** An Admin should be able to:
 i.	Monitor hostel Rep activities
 ii.	Approve pending hostels
-iii.Delete/deactivate any user
+iii.	Delete/deactivate any user
 iv.	*And more…*
 
 *Stages towards the achievement of this project should be strictly followed. And this involves:*
@@ -102,4 +102,4 @@ e)	Will be able to provide a secured activities.
 f)	Equally aimed at boosting the confidence of a new or returning student’s parents, knowing fully 
 	well that there child has been cleared for a convenient place to stay.
 
-g)	*The aim of this project is vast…
+g)	*The aim of this project is vast…*
