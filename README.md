@@ -1,15 +1,17 @@
 # Hostel-Checkin
 
-
-###**DESCRIPTION OF THIS PROJECT.
+**DESCRIPTION OF THIS PROJECT.**
 
 Hostel-Checkin is a web app project to be carried out by IMSU DSC with the 
 collaborative and effective work of its team functionaries for a greater output. 
 This project will involve the expeditious work of these teams:
 
 I.	Content Developers/Writers
+
 II.	Designers
+
 III.Front-end Developers
+
 IV.	Back-end Developers (Python, Django and Firebase)
 
 **THE CONTENT DEVELOPERS/WRITERS**
@@ -27,12 +29,13 @@ code/pages. No JavaScript framework is needed.
  
 **THE BACK-END DEVELOPERS**
 Content/Project features based on User, Hostel management and Administrator ; 
+
 **Case 1:** User should be able to;
 i.	Search for hostel
 ii.	Book appointment
 iii.Contact Hostel management
 iv.	Rate Hostel experience
-v.	*and more…
+v.	_and more…_
 
 **Case 2:** A hostel Rep should be ale to;
 i.	Create hostel Domain
@@ -47,18 +50,28 @@ ii.	Approve pending hostels
 iii.Delete/deactivate any user
 iv.	*And more…
 
-*Stages towards the achievement of this project should be strictly followed. And this involves: 
+*Stages towards the achievement of this project should be strictly followed. And this involves:*
 
 a) Mock-up and design template.
+
 b) Front-end Code-base Deployment
+
 c) Test Running of Front-end
+
 d) Integrating of Front-end into Django framework
+
 e) Designing the Database
+
 f) Database Structure
+
 g) MySQL Server Setup
+
 h) Full implementation of design/General implementation
+
 i) Deployment of the cloud
+
 j) Documentation
+
 k) Presentation
 
 
