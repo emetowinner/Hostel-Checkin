@@ -22,7 +22,7 @@ The content developers pass positive information to the team functionaries on ho
 
 - Coordinate on cross-functional teams to determine content on performance and needs.
 
-- Provide weeky rupdate/reports as the Project moves from one stage to another.
+- Provide weeky update/reports as the Project moves from one stage to another.
 
 - Research and collect information for proper communications.
 
