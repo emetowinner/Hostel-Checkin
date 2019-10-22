@@ -8,6 +8,8 @@ They should be able to facilitate the interaciton between the user and the web a
 
 *The UI designers not only focuses on the aesthetics but also maximizes reponsiveness, efficiency and accesssibility of this Project.*
 
+The designer is also responsible for bringing the pages to life using the wireframes created to mock up each page.
+
 **Some guildlines to achieving a good design includes:**
 
 - Make elements such as buttons and other common elements perform predictably so users can unconsciously use them everywhere.
